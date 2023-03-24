@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\bin\Debug\net6.0\AddressBookDataBase.exe
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\bin\Debug\net6.0\AddressBookDataBase.deps.json
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\bin\Debug\net6.0\AddressBookDataBase.runtimeconfig.json
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\bin\Debug\net6.0\AddressBookDataBase.dll
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\bin\Debug\net6.0\AddressBookDataBase.pdb
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.AssemblyInfo.cs
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.dll
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\refint\AddressBookDataBase.dll
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.pdb
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\AddressBookDataBase.genruntimeconfig.cache
+C:\Users\Admin\source\repos\214\AddressBookDataBase\AddressBookDataBase\obj\Debug\net6.0\ref\AddressBookDataBase.dll
