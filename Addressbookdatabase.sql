@@ -20,3 +20,8 @@ insert into Address_Book values
 ('Manisha', 'Gupta', 'KalindiKunj', 'Aligarh', 'UP', 357895, 7836152489, 'mahi258@gmail.com');
 
 
+--UC4 Ability to edit existing contact person using their name
+update Address_Book set City='Ghaziabad' where First_Name='riya'
+update Address_Book set City='Ghaziabad' where First_Name='Manisha'
+update Address_Book set City='Ghaziabad' where First_Name='Piyush'
+
